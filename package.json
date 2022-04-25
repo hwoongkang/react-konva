@@ -1,6 +1,6 @@
 {
   "license": "MIT",
-  "name": "react-konva",
+  "name": "@hwoongkang/react-konva",
   "description": "React binding to canvas element via Konva framework",
   "version": "18.0.0-0",
   "keywords": [
@@ -12,9 +12,10 @@
   "bugs": "https://github.com/konvajs/react-konva/issues",
   "main": "lib/ReactKonva.js",
   "module": "es/ReactKonva.js",
+  "type": "module",
   "repository": {
     "type": "git",
-    "url": "git@github.com:konvajs/react-konva.git"
+    "url": "git@github.com:hwoongkang/react-konva.git"
   },
   "dependencies": {
     "react-reconciler": "~0.27.0",
